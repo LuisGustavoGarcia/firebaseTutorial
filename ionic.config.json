@@ -1,0 +1,8 @@
+{
+  "name": "firebaseTutorial",
+  "app_id": "a6f1e7f9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
